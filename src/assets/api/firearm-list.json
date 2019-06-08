@@ -1,0 +1,6157 @@
+[
+  {
+      "id": "at1",
+      "manufacturer": "Accu-Tek",
+      "model": "AT-380 II / 17-4 Stainless Steel",
+      "type": "Pistol",
+      "bl": "2.8\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z",
+      "pictureUrl": "/assets/images/test.jpg"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "AP9 FS / Steel",
+      "type": "Pistol",
+      "bl": "4.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "AP9 MS / Steel",
+      "type": "Pistol",
+      "bl": "3.8\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Citadel M1911-A1 FS / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "ECS (Stainless) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "EFS (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "EFS (Stainless) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "FSR 38 / Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "High Standard 1911 A-1 / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "M1911-A1 (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "M206 (Blue) / Steel",
+      "type": "Revolver",
+      "bl": "2 1/8\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "M206 Revolver / Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "MAPP1 MS / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.8\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "RIA 1911 (Nickel) / Steel",
+      "type": "Pistol",
+      "bl": "5.16\"",
+      "caliber": ".38 Super",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "RIA 1911 (Parkerized) / Steel",
+      "type": "Pistol",
+      "bl": "5.16\"",
+      "caliber": ".38 Super",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "RIA M1911-A1 FS Match (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "RIA M1911-A1 Target (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Rock Island 1911 A-1 CS (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Rock Island 1911 A-1 G.I. (Parkerized) 51421 / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Rock Island 1911 A-1 GI MS (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Rock Island 1911 A-2 GI FS (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Taylor Tactical (T) M1911 A1-FS Blk Arch Check Grip (51464) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Taylor Tactical (T) M1911 A1-FS Blk Std. Grip (51461 NL) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Taylor's Tactical M1911-A1 FS Blk Arch Check Grip / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Armscor Precision",
+      "model": "Taylor's Tactical M1911-A1-FS (Black) Std. Grip / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Auto-Ordnance",
+      "model": "Auto Ordnance 1911 A-1 PKZA / Parkerized Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "3032 Alleycat / Blue Steel",
+      "type": "Pistol",
+      "bl": "2.4\"",
+      "caliber": ".32 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "3032 Tomcat / Blue Steel",
+      "type": "Pistol",
+      "bl": "2.4\"",
+      "caliber": ".32 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "3032 Tomcat Inox / Stainless Steel",
+      "type": "Pistol",
+      "bl": "2.4\"",
+      "caliber": ".32 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.9\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Black Inox / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Brigadier / Blue Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Brigadier Inox / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Compact Type M / Blue Steel",
+      "type": "Pistol",
+      "bl": "4.3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Inox / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Inox Lasergrips / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS OD Green / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.9\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Type M9A1 / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Vertec Inox / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.7\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92FS Vertec Inox Lasergrips / Steel, Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.52\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92G Elite A1 / Steel",
+      "type": "Pistol",
+      "bl": "4.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92G Elite II J92GE20 / Blue Steel, Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.7\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "92G-SD (Matte Black) J92GSD1 / Stainless Steel, Steel, Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96 / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.9\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96 Black Inox / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96 Brigadier / Blue Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96 Brigadier Inox / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96 Inox / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.92\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96 Vertec Inox / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": 4.7,
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96G Elite A1 / Steel",
+      "type": "Pistol",
+      "bl": "4.5\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96G Elite II / Blue Steel, Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.7\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "96G-SD / Stainless Steel, Steel, Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "M9 Commercial / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.9\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "PX4 Storm Type F JXF9F20 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "PX4 Storm Type F / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "PX4 Storm Type G / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Beretta",
+      "model": "PX4 Storm Type G / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Bersa (Industria Argentina)",
+      "model": "Firestorm 380 / 4140 Steel; Alloy",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Bond Arms",
+      "model": "Big Bear CA / Stainless Steel",
+      "type": "Derringer",
+      "bl": "3\"",
+      "caliber": ".45 Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Bond Arms",
+      "model": "Brown Bear CA / Stainless Steel",
+      "type": "Derringer",
+      "bl": "3\"",
+      "caliber": ".45 Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Bond Arms",
+      "model": "CA Backup / Stainless Steel",
+      "type": "Derringer",
+      "bl": "2.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Bond Arms",
+      "model": "CA Mama Bear / Stainless Steel",
+      "type": "Derringer",
+      "bl": "2.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Bond Arms",
+      "model": "CA Papa Bear / Stainless Steel",
+      "type": "Derringer",
+      "bl": "3\"",
+      "caliber": ".45 Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Bond Arms",
+      "model": "California Defender / Stainless Steel",
+      "type": "Derringer",
+      "bl": "2.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "1911-22 A1 Compact (Wood Grip) 051803490 / Alloy",
+      "type": "Pistol",
+      "bl": "3.625\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "1911-22 A1 Full Size (Wood Grip) 051802490 / Alloy",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "1911-22 A1 Full Size(Blk) Plastic Grips 051802490 / Alloy",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "1911-22 Compact Plastic Grips 051803490 / Alloy",
+      "type": "Pistol",
+      "bl": "3.625\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Camper SS URX F/O MS 051442490 / Stainless Steel Slide, Alloy Frame",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Camper Stnls UFX, Adj. Sgt 051483490 / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Camper UFX, Adj. Sights 051482490 / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Contour 5.5 URX SE MS 051421490 / Steel; Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Lite Grey 5.5 FLT URX 051461490F/O SE MS / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Lt Grey 7.25 FLT URX F/O SE MS 051462490 / Steel Slide; Alloy Frame",
+      "type": "Pistol",
+      "bl": "7.25\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Lt Grn 5.5 FLT URX F/O SE MS 051459490 / Steel Slide; Alloy Frame",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Micro Standard URX SE MS 051408490 / Steel; Alloy",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark MS NS Practical URX F/O 051448490 / Steel Slide; Alloy Frame",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Plus Brown LAM UDX SE MS 051428490 / Steel; Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Plus Rswd UDX MS SE Adj. Sghts 051429490 / Steel; Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Plus SS Black LAM UDX MS 051427490 / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Standard SS URX MS 051409490 / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Buck Mark Standard URX SE MS 051407490 / Steel; Alloy",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Hi-Power Blue Adj Sights 051003493 / Steel",
+      "type": "Pistol",
+      "bl": "4.66\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Hi-Power Blue Fixed Sights 051003393 / Steel",
+      "type": "Pistol",
+      "bl": "4.66\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Browning",
+      "model": "Hi-Power MKIII Fixed Sights 051001393 / Steel",
+      "type": "Pistol",
+      "bl": "4.66\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "13520 Mag Pug / Alloy",
+      "type": "Revolver",
+      "bl": "2.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "13820 Black (Undercover) / Stainless Steel, Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "13825 Tiger / Stainless Steel; Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "14420 Bulldog (Blue) / Stainless, Alloy",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".44 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "23520 Tiger / Alloy",
+      "type": "Revolver",
+      "bl": "2.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "24420 Tiger (Black & Green Stripe) / Stainless, Alloy",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".44 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53711 / Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53811 Off Duty / Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53820 Undercover Lite (Aluminum) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53823 Undercover Lite (Red/SS) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53824 Undercover Lite (Red/Blk) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53830 The Pink Lady / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53835 Pink Lady / Aluminum; Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53839 Chic Lady (Pink/Hi Polish SS) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53840 Lavender Lady (Laven/SS) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53844 Shamrock (Green/Blk) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53849 Chic Lady (Lavender) / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53851 Pink Lady / Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53852 Chic Lady / Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53860 Santa Fe Sky (Turqu/StnStl) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53864 Santa Fe Sky (Turq/Blk) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53870 Undercover Lite (Blk/SS) Std. / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53871 UC Lite / Aluminum; Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53879 The Tiffany / Aluminum; Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53889 Leopard / Aluminum; Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53890 Goldfinger (Blk/Gold tone) Std / Aluminum, Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53911 Off Duty / Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "53921 / Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "73220 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".32 Mag",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "73520 Mag Pug / Alloy",
+      "type": "Revolver",
+      "bl": "2.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "73820 / Stainless Steel, Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "74420 Bulldog (Stnls Stl) / Stainless, Alloy",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".44 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Charter 2000 (Charter Arms)",
+      "model": "Target Pathfinder 72242 / Steel",
+      "type": "Revolver",
+      "bl": "4.17\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22GK (Olive Drab Green) / Alloy; Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22LR (Black) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22LR (Chrome) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22LR (Majestic Pink) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22LR (Royal Blue) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22LR (Ruby Red) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22M (Blue) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22M (Chrome) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22MPK (Majestic Pink) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22MRB (Royal Blue) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22MRD (Ruby Red) / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22MS / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22PR (Purple) / Alloy; Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22S / Alloy, Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "C22TL (Teal) / Alloy; Steel",
+      "type": "Derringer",
+      "bl": "2.4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "CB38 (Black) / Steel, Alloy",
+      "type": "Derringer",
+      "bl": "2.75\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "CB38 (Chrome) / Steel, Alloy",
+      "type": "Derringer",
+      "bl": "2.75\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "CB38 (Majestic Pink) / Steel, Alloy",
+      "type": "Derringer",
+      "bl": "2.75\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "CB38 (Satin) / Steel, Alloy",
+      "type": "Derringer",
+      "bl": "2.75\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "CB38GK (Olive Drab Green) / Steel; Alloy",
+      "type": "Derringer",
+      "bl": "2.75\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "CB38TK (Tan) / Steel; Alloy",
+      "type": "Derringer",
+      "bl": "2.75\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "Patriot 45 (Black) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "Patriot 45 (Stainless) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "S38BKB (Black) / Aluminum",
+      "type": "Revolver",
+      "bl": "1.85\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "S38PB Shadow (Pink) / Aluminum",
+      "type": "Revolver",
+      "bl": "1.85\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Cobra Enterprises",
+      "model": "S38SKB (Satin) / Aluminum",
+      "type": "Revolver",
+      "bl": "1.85\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "40 B (Black) 01700 / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.37\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "75 BD (Black) 01130 / Steel",
+      "type": "Pistol",
+      "bl": "4.687\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "75 Compact 01197 / Steel",
+      "type": "Pistol",
+      "bl": "3.9\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "75 SA (Black) 01151 / Steel",
+      "type": "Pistol",
+      "bl": "4.692\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "83 (Glossy Blue) 01301 / Steel",
+      "type": "Pistol",
+      "bl": "3.81\"",
+      "caliber": 0.38,
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 2075 RAMI 01750 / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 2075 RAMI 01751 / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.0\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 B (Black) 01102 / Steel",
+      "type": "Pistol",
+      "bl": "4.593\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 B (Black) 01120 / Steel",
+      "type": "Pistol",
+      "bl": "4.58\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 B SA (Black) 01150 / Steel",
+      "type": "Pistol",
+      "bl": "4.593\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 Compact (Black) 01190 / Steel",
+      "type": "Pistol",
+      "bl": "3.765\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 D (Black) 01194 / Alloy",
+      "type": "Pistol",
+      "bl": "3.763\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 P-01 01199 / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.88\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 SP-01 01152 / Steel, Poly",
+      "type": "Pistol",
+      "bl": "4.7\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 Tactical 01100 / Steel",
+      "type": "Pistol",
+      "bl": "4.72\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 TS 01171 / Steel, Alloy, Poly Trigger",
+      "type": "Pistol",
+      "bl": "5.4\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 75 TS 01172 / Steel, Alloy, Poly Trigger",
+      "type": "Pistol",
+      "bl": "5.4\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "CZ USA (Ceska Zbrojovka Fox)",
+      "model": "CZ 97 B (Black) 01401 / Steel",
+      "type": "Pistol",
+      "bl": "4.658\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Dan Wesson",
+      "model": "Commander Classic Bobtail 01912 / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Dan Wesson",
+      "model": "PM7 (Stainless) 01900 / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Ed Brown Products",
+      "model": "ET-BB-CAL2 (Black) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Ed Brown Products",
+      "model": "KC-SS-CAL2 (Gray) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Ed Brown Products",
+      "model": "SF3-BB-CAL2 (Black) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "European American Armory",
+      "model": "Windicator/EARB38 / Steel, Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Excel Arms (Accu-Tek)",
+      "model": "Excel Arms MP-22 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "8.5\"",
+      "caliber": ".22 WMR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Fabrique Nationale",
+      "model": "FN Five-seveN (Black) (FNH USA Fredericksburg, VA) / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4.75\"",
+      "caliber": "5.7x28mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Fabrique Nationale",
+      "model": "FN Five-seveN (FDE) (FNH USA Fredericksburg, VA) / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4.75\"",
+      "caliber": "5.7x28mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 Gen II (Black) (w/Bill of Rights) / Alloy; Polymer",
+      "type": "Pistol",
+      "bl": "3.87\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 Gen II (Front Sight) (Black) / Alloy; Polymer",
+      "type": "Pistol",
+      "bl": "3.87\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 Gen II (Pink) / Alloy; Polymer",
+      "type": "Pistol",
+      "bl": "3.87\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 Gen II (Tan) / Alloy; Polymer",
+      "type": "Pistol",
+      "bl": "3.87\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "FN Herstal, S.A.",
+      "model": "FN Five-seveN (Black) (FN Columbia, SC) / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4.75\"",
+      "caliber": "5.7x28mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "FN Herstal, S.A.",
+      "model": "FN Five-seveN (FDE) (FN Columbia, SC) / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4.75\"",
+      "caliber": "5.7x28mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Franklin Armory",
+      "model": "Pistol SKU 3130-BLK / Steel",
+      "type": "Pistol",
+      "bl": "7.5\"",
+      "caliber": "5.56 NATO (.223 Remington)",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "German Sport Guns (GSG)",
+      "model": "GSG-922CA / Zamak 5 zinc alloy; machined aluminum",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".22 LR HV",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "German Sport Guns (GSG)",
+      "model": "GSG1911 CA (Black) / Aluminum Slide & Frame; Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "17 (Black) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "17 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "17C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "17RTF2 (Black) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "19 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "19 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "19C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "20 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.60\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "20 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.60\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "20C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.60\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "20SF (Black) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.60\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "21 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.60\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "21 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.60\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "21C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.60\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "21SF-STD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.61\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "22 - California Department of Corrections / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "22 - FBI 100 Yr. Commemorative (Blk) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "22 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "22 C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "22 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "22RTF2 (Black) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "23 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "23 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "23C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "26 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "26 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "27 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "27 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "29 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "29 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "29SF (Black) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "30 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "30 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "30SF / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "31 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "31 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "31C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "32 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "32 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "32C / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "33 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "33 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "34 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "5.32\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "34 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "5.32\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "35 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "5.32\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "35 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "5.32\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "36 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "36 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.78\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "38 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".45 GAP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "38 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.02\"",
+      "caliber": ".45 GAP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "39 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": ".45 GAP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "39 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.46\"",
+      "caliber": ".45 GAP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "G-37 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".45 GAP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Glock",
+      "model": "G-37 OD / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.49\"",
+      "caliber": ".45 GAP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Guncrafter Industries, LLC",
+      "model": "No. 1 / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".50 GI",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Guncrafter Industries, LLC",
+      "model": "No. 2 / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".50 GI",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "Comp USP40 V1 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.58\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "Comp USP45 V1 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.8\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "Comp USP9 V1 (Black Frame) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.58\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "Comp USP9 V1 (Grey Frame) / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.58\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000 SK-V3 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000 SK-V3 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000-V2 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.66\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000-V2 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.66\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000-V3 (OD Green) / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.66\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000-V3 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.66\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000-V3 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.66\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000SK-V2 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.27\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "P2000SK-V2 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.27\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP 40 Exp.V9 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "5.20\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP 45 Elite / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP 45 Exp.V1 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "5.20\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP Comp 40 Stnls V1 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.58\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP Comp 45 Stnls V1 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.80\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP Comp 9 Stnls V1 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.58\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP40, V1 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP40C-LEM / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.58\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP45, V1 (Black Frame) / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.41\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP45, V1 (Grey Frame) / Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4.41\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP9, V1 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Hi Point",
+      "model": "C9 UPC#752334091604 / Polymer, Zinc Alloy, Chrome Moly",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Hi Point",
+      "model": "CF380 UPC#752334003805 / Polymer; Zinc Alloy; 4130 Barrel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093 (SN tag on frame under barrel) / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093 (SN tag on grip) / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093BB (SN tag on frame under barrel) / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093BB (SN tag on grip) / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093BCF (SN tag on frame under barrel) / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093BCF (SN tag on grip) / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093KRT / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "CW9093N / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K4043A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K4043NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K4048A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K4048NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K9093A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K9093NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K9098A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "K9098NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP4043 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.54\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP4043N / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.54\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP4044 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.54\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP4044N / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.54\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP4543 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP4543N / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP4544 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP9093A / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP9093NA / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP9094A / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "KP9094NA / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M4043A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M4043NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M4048A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M4048NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M9093A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M9093NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M9098A / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "M9098NA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "P380 (KP38233/KP38233N) / Polymer Frame; Stainless Steel Slide",
+      "type": "Pistol",
+      "bl": "2.5\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "PM4043 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "PM4043N / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "PM4044 / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "PM9093A / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "PM9093NA / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "PM9094A / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kahr Arms",
+      "model": "PM9094NA / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Comp. Stnls II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Compact CDP II / Stainless Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Custom CDP II / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Custom II (NRA Freedom Warrior) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Custom II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Custom Target II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Custom TLE II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Custom TLE/RL II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Eclipse Custom II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Eclipse Custom II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Eclipse Pro II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Eclipse Pro Target II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Eclipse Target II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Eclipse Ultra II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Gold Combat Stnls II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Gold Match II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "K6S (Brushed Steel) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "K6S (Deluxe Carry Revolver) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "K6S (Laser Grip) (Brushed Steel) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "K6S (Satin) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "K6S DC (NS) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "K6S Stainless / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Pro Carry HD II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Pro Carry HDII Super / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".38 Super",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Pro Carry II / Blue Steel, Aluminum",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Pro CDP II / Stainless Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Pro Tactical II / Blue Steel, Aluminum",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Raptor II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Rimfire Super / Lightweight Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Rimfire Target II Black / Lightweight Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Rimfire Target Silver / Lightweight Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stainless Gold Match II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stainless II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stainless Raptor II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stainless Target 10mm II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": "10mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stainless Target 9mm II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stainless TLE II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stainless TLE/RL II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stnls Pro Carry II / Stainless Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stnls Target II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stnls Ultra Carry II / Stainless Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Stnls Ultra Carry II Freedom Defender / Stainless Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Super Match II / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Tactical Custom II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Ult Carry II / Blue Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Ultra CDP II / Stainless Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Ultra Covert II / Steel, Aluminum Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Ultra Raptor II / Blue Steel, Alum. Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Kimber",
+      "model": "Warrior II / Blue Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Concept I (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Concept I / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Concept II (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Concept II / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Custom Carry (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Custom Carry (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "DCM National Match Hardball 5\" / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "PPC Distinguished (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "PPC Distinguished / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Premier II (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Premier II / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "S.R.P. (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "S.R.P. / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Super Tac (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Super Tac / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Thunder Ranch (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Thunder Ranch / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Ultimate Master Combat (1.5\" Group) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Les Baer",
+      "model": "Ultimate Master Combat / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black) (Made in Israel) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black) (Made in USA) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA BC / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABB (Burnt Bronze) (Made in USA) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABB (Burnt Bronze) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABC (Brushed Chrome) (Made in USA) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CAPC (Polished Chrome) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CATU (Tungsten Cerakote) (Made in USA) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CATU (Tungsten Cerakote) / Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "GRP / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "GRP RECON / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator (Sniper Gray) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator II (Black/Blue) / Steel",
+      "type": "Pistol",
+      "bl": "4.33\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator II (Black/Sniper Gray) / Steel",
+      "type": "Pistol",
+      "bl": "4.33\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator II (Blued) / Steel",
+      "type": "Pistol",
+      "bl": "4.33\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator III (Black/Sniper Gray) / Steel",
+      "type": "Pistol",
+      "bl": "4.33\"",
+      "caliber": ".45 Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator III (Black/Titanium Blue) / Steel",
+      "type": "Pistol",
+      "bl": "4.33\"",
+      "caliber": ".45 Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Predator III-T / Steel",
+      "type": "Pistol",
+      "bl": "4.33\"",
+      "caliber": ".45 Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "T3 / Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon (Black) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon (Blue) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon (Chrome Plating) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon (Sniper Gray) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon II (Black/Sniper Gray) / Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon II (Black/Titanium Blue) / Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon II (Blued) / Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon III (Black/Blue) / Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon III (Black/Sniper Gray) / Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Nighthawk Custom",
+      "model": "Talon III (Blued) / Steel",
+      "type": "Pistol",
+      "bl": "4.25\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "North American Arms",
+      "model": "NAA-22LR / Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.125\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "North American Arms",
+      "model": "NAA-22MS / Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.125\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Phoenix Arms",
+      "model": "HP22A (Blue) / Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Phoenix Arms",
+      "model": "HP22A (Blue) / Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Phoenix Arms",
+      "model": "HP22A (Nickel) / Alloy",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Phoenix Arms",
+      "model": "HP22A (Nickel) / Alloy",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Phoenix Arms",
+      "model": "HP25A (Blue) / Steel, Zinc",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".25 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Phoenix Arms",
+      "model": "HP25A (Nickel) / Steel, Zinc",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".25 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Seecamp",
+      "model": "LWS 32 CA Edition (Blk) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "2.13\"",
+      "caliber": ".32 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Seecamp",
+      "model": "LWS 32 CA Edition (Milford, CT) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "2.13\"",
+      "caliber": ".32 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Seecamp",
+      "model": "LWS 32 CA Edition (Southwick, MA) (Stnls) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "2.13\"",
+      "caliber": ".32 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 (Blued) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 (Stainless) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 Railed (Blued) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 Railed (Stainless) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 Target (Blued) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 Target (Stainless) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 Target Railed (Blued) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 TTT (Two-tone/Wood Grip) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 XO (Blued) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "1911 XO (Stainless) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P220 (Stainless) 220-45-SSS-CA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4.4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P220R (Blued) / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P220R (Equinox) 220R-45-EQ-CA / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P220R Carry (Blued) 220R3-45-B / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.9\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P220R Carry (Equinox) / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.9\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P220R Combat (Dark Earth) / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P226 Scorpion 226R-9-SCPN-CA / Steel",
+      "type": "Pistol",
+      "bl": "4.40\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P226 Extreme 226R-9-XTM-BLKGRY-CA / Steel",
+      "type": "Pistol",
+      "bl": "4.40\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P226 MK-25 Navy Version ( Black) MK-25-CA / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "4.40\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P226R 226R-40-BSS-CA / Steel; Alloy",
+      "type": "Pistol",
+      "bl": "4.41\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P226R (Black) 226R-9-BSS-CA / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "4.40\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P226R Equinox 226R-40-EQ / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "4.4\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P229 (Black) 229R-9-BSS-CA / Steel; Alloy",
+      "type": "Pistol",
+      "bl": "3.9\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P229R Enhanced Elite (Black) 229R-40-ESE-CA / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "3.9\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P229R Enhanced Elite (Black) 229R-9-ESE-CA / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "3.9\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P232 (Stainless) 232-380-SSS / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.7\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P232 (Stainless) Hogue Grips / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.7\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P238 238-380-HD-CA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "2.82\"",
+      "caliber": ".380 Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P238 238-380-HD2-CA / Stainless Steel",
+      "type": "Pistol",
+      "bl": "2.82\"",
+      "caliber": ".380 Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P238 238-380-TSS2-CA / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "2.835\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P238 (Two-Tone) 238-380-TSS-CA / Stainless Steel; Alloy",
+      "type": "Pistol",
+      "bl": "2.835\"",
+      "caliber": ".380 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P239 (Blued) / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.6\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P239 (Blued) / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.6\"",
+      "caliber": ".357 SIG",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P239 (Blued) / Stainless Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.6\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P239 SAS (2 Tone) 239-40-SAS / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.6\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "P6 (P.W. Arms) / Steel, Alloy",
+      "type": "Pistol",
+      "bl": "3.9\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "SP2022 (Blued) / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.8\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sig Sauer, Inc. (Sauer, J.P. & Sons, Sig Arms)",
+      "model": "SP2022 (Blued) / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "3.8\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": ".500 Interchangeable Compensator SKU 163501A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "8.375\"",
+      "caliber": ".500 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "10-14 (Wood Grip) SKU 150786 / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "17-9 Masterpiece SKU 150477A / Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "19-9 Classic SKU 12040 / Steel; Wood grip",
+      "type": "Revolver",
+      "bl": "4.25\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "19-9 PC K Comp SKU 12039 / Steel; Wood grip",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "22A-1 (Bull Barrel) SKU 107431 / Alloy, Stainless Steel",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "22A-1 Gray Frame SKU 107412 / Alloy, Stainless Steel",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "22A-1 SKU 107410 / Alloy; Stainless Steel",
+      "type": "Pistol",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "25-15 (Blue) SKU 150256A / Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": ".45 Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "27-9 (Blue) SKU 150341A / Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "29-10 (Blue) SKU 150145A / Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "317 SKU 160221B / Alloy",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "317-3 (S&W Logo Grip) SKU 160221A / Aluminum Alloy",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "325 Thunder Ranch (Mte Blk) SKU 170316A / Steel; alloy",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "327 SKU 170245A / Alloy; Titanium; Stainless Steel",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "327 MPR8 SKU 170292A / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "327-1 TRR8 SKU 170269A / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "329PD SKU 163414A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "329PD (S&W Logo Grip) SKU 163414A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "340PD SKU 163062 / Alloy",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "351 SKU 160228B / Aluminum Alloy",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".22 WM",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "351 PD SKU 160228A / Alloy",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "351C (Black) SKU103351 / Aluminum Alloy",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".22 WMR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "36-10 Classic (Blue) SKU 150184 / Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "360J SKU 11713 / Scandium alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "360PD (S&W Logo Grip) SKU 163064 / Alloy; Titanium; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "43C SKU 103043B / Aluminum Alloy",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "43C (Matte Black) SKU 103043A / Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "442 CT Grip SKU 12643 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Special + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "442-1 (Matte Black) SKU 178041 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "442-2 SKU 162810B / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "442-2 (Internal Lock) SKU 162810A / Aluminum Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "460 Hunter SKU 170262A / Steel",
+      "type": "Revolver",
+      "bl": "10.5\"",
+      "caliber": ".460 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "460 Hunter SKU 170280A / Steel",
+      "type": "Revolver",
+      "bl": "12\"",
+      "caliber": ".460 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "460 XVR SKU 163460A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "8.375\"",
+      "caliber": ".460 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "460 XVR SKU 170350 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3.5\"",
+      "caliber": "460 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "460 XVR Hunter SKU 170339 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "14\"",
+      "caliber": ".460 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "460V SKU 163465A / Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".460 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "48-7 (Black) SKU 150717A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".22 Win. Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "48-7 (Black) SKU 150718A / Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".22 Win. Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "500 (Satin Stainless) SKU 163565 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": ".500 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "500 Hunter SKU 170231A / Steel",
+      "type": "Revolver",
+      "bl": "10.5\"",
+      "caliber": ".500 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "500 Hunter (Matte Silver) SKU 170299A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".500 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "500 SKU 163500A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "8.375\"",
+      "caliber": ".500 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "57-6 (Blue) SKU 150481A / Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".41 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "586-7 L-Comp SKU 170170 / Carbon Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "586-8 (Blue) SKU 150908 / Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "586-8 (Blue) SKU 150909 / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "60-14 SKU 162430 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "60-14 (S&W Logo Grip) SKU 162420 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.12\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "60-14 Lady Smith SKU 162414A / Steel",
+      "type": "Revolver",
+      "bl": "2.125\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "60-15 (S&W Logo Grip) SKU 162430 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "60-15 (S&W Logo Grip) (NRA Engraved) SKU 12489 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "60-15 Pro Series SKU 178013A / Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "617-6 (S&W Logo Grip) SKU 160578 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "617-6 SKU 160584A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "625-8 (Satin Stnls) SKU 170161A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "625-8 JM SKU 160936A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "627-5 SKU 170210A / Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "627-5 SKU 170296B / Stainless Steel; Wood Grip",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "627-5 (Matte Silver) Perform Ctr SKU 170133A / Steel",
+      "type": "Revolver",
+      "bl": "2.625\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "627-5 Pro Series SKU 178014A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "627-5 V Comp Two-Tone SKU 170296A / Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 SKU 170137B / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 (Matte) SKU 170135A / Steel",
+      "type": "Revolver",
+      "bl": "2.625\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 Classic SKU 163638A / Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 Classic SKU 163636A / Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 Compensated Hunter SKU 170181A / Steel",
+      "type": "Revolver",
+      "bl": "7.50\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 M629 Deluxe SKU 150714 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 M629 Deluxe 3\" SKU 150715 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 SKU 163603A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 SKU 163606A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 Stealth Hunter (Matte Blk) SKU 170323A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 V Comp SKU 170137A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-7 (Black) SKU 170318 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-8 Hunter SKU 170334 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "8.375\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "63-5 Hi-Viz (Satin Stnls) SKU 162634 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "637-2 SKU 150467 / Alloy",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "637-2 (S&W Logo Grip) SKU 163050 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "637-2 Laser Grip SKU 163052A / Alum Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "638-3 SKU150468 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "638-3 (Matte Silver) SKU 163070A / Steel; Aluminum Alloy",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special +P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "638-3 (S&W Logo Grip) SKU 163070 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "638-3 Laser Grip (Matte Silver) SKU 163071 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "64-8 SKU 162506A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "640 Pro Series SKU 178044 / Steel",
+      "type": "Revolver",
+      "bl": "2.125\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "640-1 SKU 103690A / Steel",
+      "type": "Revolver",
+      "bl": "2.125\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "640-1 SKU150784 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "2.125\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "640-3 SKU 163690 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.12\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "642 SKU 10186 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Special + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "642-1 (Matte Silver) SKU 178042 / Alloy, Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "642-1 SKU 103810A / Steel; Aluminum alloy",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special +P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "642-2 (S&W Logo Grip) SKU 163810 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "642-2 IL REB CT Laser Grip SKU 12555 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 S&W Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "642-2 Laser Grips SKU 163811A / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special +P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "642-2LS SKU 163808A / Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "647-1 SKU 170229A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "12\"",
+      "caliber": ".17 HMR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "649-5 (S&W Logo Grip) SKU 163210 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.12\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "66-8 Combat Magnum SKU 10061 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.75\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "66-8 SKU 162662 / Steel",
+      "type": "Revolver",
+      "bl": "4.25\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "67-5 SKU 162802A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686 Performance Center SKU 170346 / Steel",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 Competitor SKU170319 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 M686 SKU 150713 / Stainless Steel; Wood Grip",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 M686 SKU 150853 / Stainless Steel; Wood Grip",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 M686 SKU 150855 / Stainless Steel; Wood Grip",
+      "type": "Revolver",
+      "bl": "7\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 7 Shot SKU 164194A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 M686 SKU 150712 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 Plus SKU 150854 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 Plus 7 Shot SKU 164198A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 Plus Pro Series (Stn Stnls) SKU 178038 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 Plus, 7 Shot SKU 164192A / Steel",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 SKU 164222A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 SKU 164224A / Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 SSR SKU 178012A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "69 SKU162069 / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "69 Combat Magnum SKU 10064 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.75\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "986 SKU 178055 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "BodyGuard 38 (Crimson Trace) SKU 10062 / Alloy; Stainless; Polymer",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "Bodyguard 38 (Matte Black) SKU 103038A / Steel; Aluminum Alloy; Polymer",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special +P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "BodyGuard 38-1 SKU 103039 / Aluminum; Polymer",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Special + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "BodyGuard 38-1 Crimson Trace Laser SKU 12056 / Aluminum; Polymer",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Special + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P 340 (Crimson Trace Grips) SKU 163073 / Alloy, Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P 340 (Matte Black) SKU 103072 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P 340 (S&W Logo Grip) SKU 163072 / Alloy; Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P 9 Shield (Blk) (Carry Kit) SKU 12550 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P40 Shield SKU 187020 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.12\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P40 Shield Hi Viz SKU 11906 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3.12\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P9 Shield (Blk) Hi Viz SKU 11905 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P9 Shield (Blk) SKU 187021 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M27-9 SKU 150339A / Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M29-10 SKU 150783 / Carbon Steel; Wood Grip",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M360 SKU 11749 / Scandium alloy; PVD finish",
+      "type": "Revolver",
+      "bl": "1 7/8\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M360 SKU 12601 Survival Kit / Scandium Alloy; PVD Finish",
+      "type": "Revolver",
+      "bl": "1 7/8\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M422-2 SKU 150469 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M437 FDE Grip SKU 11926 / Aluminum Alloy; Carbon Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M442 SKU150544 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M442-1 SKU 150785 / Alloy, Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M460 SKU 11626 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".460 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M500 SKU 163504A / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".500 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M629-6 SKU 170320 / Alloy",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M637-2 SKU170347 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M642-1 SKU 150972 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M642-2 SKU150466 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M929 170341 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M929 SKU 170341A / Stainless Steel; Titanium Alloy",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "M929 SKU 170341B / Stainless Steel; Titanium Alloy",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "PC 637-2 SKU 170349 / Aluminum Alloy; Wood Grip",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 S&W Special +P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "PC 686-6 Plus SKU 11760 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "PC 686-6 Vented SKU 11759 / Stainless Steel; Synthetic Grips; Vented Barrel",
+      "type": "Revolver",
+      "bl": "4\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "PC M500 S&W Hi Viz Fiber Optic SKU 11623 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3.5\"",
+      "caliber": ".500 S&W Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "PC M642-2 SKU 170348 / Aluminum Alloy; Wood Grip",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Special + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "PC M986 SKU 10227 / Stainless Steel; Titanium Alloy",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "SD40 VE Hi Viz SKU 11908 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "SD40 VE SKU 123403 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "SD9 VE (Two-Tone) SKU 123903 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Smith & Wesson",
+      "model": "SD9 VE (TwoTone) Hi Viz SKU 11907 / Stainless Steel; Polymer",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "1911 EMP Compact PI9209L / Alloy, Steel",
+      "type": "Pistol",
+      "bl": "3.1\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PB9108L (Integrated Locking System) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PB9108L / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PB9113L (ambi safety) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".38 Super",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PB9151L / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9102 / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9105LCA (ambi safety) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9105LCA / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9107L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9107LCA-G10 / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9108L (ambi safety) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9108L (wood grips) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9108LCA-G10 / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9108LFDECA / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9108LYCA / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9111 (ambi safety) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9111 / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9111FDECA / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9111LR / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9111YCA / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PC9206 / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PI9132L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PI9134L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PI9140L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9105MFDEFOCA / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9105ML / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5.0\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9109L (ambi safety) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9130L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9142L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9149L / Alloy, Carbon Steel",
+      "type": "Pistol",
+      "bl": "4.0\"",
+      "caliber": 0.45,
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9151L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9161L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9301L (ambi safety) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "3.5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9511L (ambi safety) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9608L (ambi safety) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9628L (ambi safety) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "6\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "PX9801L (ambi safety) / Alloy, Stainless Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9101 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.08\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9102 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "4.08\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9161 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9162 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9201 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.08\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9301 / Steel, Polymer",
+      "type": "Pistol",
+      "bl": "4.08\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9302 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "4.08\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9401 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "5.01\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9402 Tactical / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9611 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9621 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9645 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9801 / Composite, Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9802 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "3.01\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9802FDEFOCA / Polymer; Steel",
+      "type": "Pistol",
+      "bl": "3.01\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9802YFOCA / Polymer; Steel",
+      "type": "Pistol",
+      "bl": "3.01\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9811 / Composite, Steel",
+      "type": "Pistol",
+      "bl": "3\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9812 / Polymer, Steel",
+      "type": "Pistol",
+      "bl": "3.01\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9821 / Polymer, Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.1\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Springfield Armory",
+      "model": "XD9822 / Polymer, Stainless Steel",
+      "type": "Pistol",
+      "bl": "3.1\"",
+      "caliber": ".40 S&W",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Strayer Voigt",
+      "model": "Infinity Comp. Target / Stainless Steel, Polymer",
+      "type": "Pistol",
+      "bl": "5.190\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Strayer Voigt",
+      "model": "Infinity Trad. Target Pistol / Stainless Steel, Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP-141 (Blue) / Alloy Steel",
+      "type": "Revolver",
+      "bl": "4.19\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP-161 / Blue Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP100 (Wood Grip) 01771 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP100 01757 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "5.5\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP100 01761 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".44 Special",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP100 01775 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": "10mm Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP100 (NRA Wood Grip) 01758 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "GP100 Match Champion 01755 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KGP-141 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KGP-141-MCF 01754 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KGP-161 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "6\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KGP-4327-7 (Satin Stainless) 01748 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".327 Fed Mag",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KGPF-331 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KLCR-357 (Black) 05450 / Stainless Steel; Polymer",
+      "type": "Revolver",
+      "bl": "1.88\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KLCR-357 (Black) Internal Lock 05450 / Stainless Steel; Polymer",
+      "type": "Revolver",
+      "bl": "1.88\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KRH-44 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KRH-444 (Satin Stainless) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4.177\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KRH-445 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "5.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KRH-44R / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KRH-45-4 (Satin Stainless) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4.166\"",
+      "caliber": ".45 Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KRH-455 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "5.5\"",
+      "caliber": ".45 Long Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-242-8 (Satin Grey) 05765 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4.20\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-321X / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.25\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-321XL / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.25\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-321XL-LG (Satin Stainless) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.25\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-32731X (Satin Stainless) / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3.06\"",
+      "caliber": ".327 Fed. Mag.",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-331X / Stainless Steel",
+      "type": "Revolver",
+      "bl": "3.06\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-341X (Satin Stnls) 05771 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSP-821X / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.25\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSRH-2 05303 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSRH-2454 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".454 Casull",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSRH-2480 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".480 Ruger",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSRH-7 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSRH-7454 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".454 Casull",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "KSRH-9 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "9.5\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LC380CA 03253 / Alloy; Polymer",
+      "type": "Pistol",
+      "bl": "3.12\"",
+      "caliber": ".380 Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR 05456 / Stainless Steel; Polymer",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR 05452 / Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".327 Fed. Mag.",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR (Black) / Stainless Steel, Alum., Polymer",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl. + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR (Matte Black) 05401 (no lock) / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl. + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-22 (Black) 05410 / Stainless Steel; Alum Alloy; Polymer",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-22 (Matte Black) 05410 (no lock) / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-22MAG (Matte Black) 05414 (internal lock) / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-22MAG (Matte Black) 05414 (no lock) / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".22 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-F / Stainless Steel, Alum., Polymer",
+      "type": "Revolver",
+      "bl": "1.88\"",
+      "caliber": ".38 Spl. + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-FR / Stainless Steel, Alum., Polymer",
+      "type": "Revolver",
+      "bl": "1.88\"",
+      "caliber": ".38 Spl. + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-LG (Black) 5402 / Stainless Steel, Alum., Polymer",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl. + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCR-XS (Black) 05405 / Stainless Steel; Aluminum Polymer",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".38 Spl.+ P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCRX 05430 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "1.875\"",
+      "caliber": ".38 Spl. + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCRx 05435 / Stainless Steel; Polymer",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCRx 05460 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCRx 05462 / Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": ".327 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCRx 05464 / Steel",
+      "type": "Revolver",
+      "bl": "1.87\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "LCRX-3 (Black) 05431 / Alloy; Steel",
+      "type": "Revolver",
+      "bl": "3\"",
+      "caliber": ".38 Special + P",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05032 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".45 ACP/.45 Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05033 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.75\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05041 / Steel",
+      "type": "Revolver",
+      "bl": "7.44\"",
+      "caliber": ".44 Rem. Mag.",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05043 / Steel",
+      "type": "Revolver",
+      "bl": "5.51\"",
+      "caliber": ".44 Rem. Mag.",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05044 / Steel",
+      "type": "Revolver",
+      "bl": "4.18\"",
+      "caliber": ".44 Rem. Mag.",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05050 / Steel",
+      "type": "Revolver",
+      "bl": "4.18\"",
+      "caliber": ".45 Colt",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05051 / Steel",
+      "type": "Revolver",
+      "bl": "2.72\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05059 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 05060 / Steel",
+      "type": "Revolver",
+      "bl": "5.5\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Redhawk 5028 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "2.75\"",
+      "caliber": ".44 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "SP101 05773 / Steel",
+      "type": "Revolver",
+      "bl": "4.20\"",
+      "caliber": ".327 Fed. Mag.",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "SP101 05783 / Steel",
+      "type": "Revolver",
+      "bl": "2.25\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "SP101 Match Champion 05782 / Steel",
+      "type": "Revolver",
+      "bl": "4.2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Super Redhawk 05507 / Steel",
+      "type": "Revolver",
+      "bl": "7.5\"",
+      "caliber": ".480 Ruger",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Sturm, Ruger & Co.",
+      "model": "Super Redhawk 05524 / Steel",
+      "type": "Revolver",
+      "bl": "6.5\"",
+      "caliber": "10mm Auto",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "65 (Black) 2-650041 / Steel",
+      "type": "Revolver",
+      "bl": "4.07\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "65 (Stainless) 2-650049 / Stainless Steel",
+      "type": "Revolver",
+      "bl": "4.07\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "M605 Blk 2-605021 / Alloy; Steel; Rubber",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "M605 SS 2-605029 / Alloy; Steel; Rubber",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".357 Magnum",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "M85 Blk 2-850021FS / Alloy; Steel; Rubber",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "M85 Protector 2-850021PFS / Alloy; Steel; Rubber; Plastic",
+      "type": "Revolver",
+      "bl": "2.5\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "M85 SS 2-850029FS / Alloy; Steel; Rubber",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "M85 Ultralite Blk 2-850021ULFS / Alloy; Steel; Rubber",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Taurus",
+      "model": "M85 Ultralite SS 2-850029ULFS / Alloy; Steel; Rubber",
+      "type": "Revolver",
+      "bl": "2\"",
+      "caliber": ".38 Spl",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Valtro",
+      "model": "1998 A-1 / 4340 N. Cr. Moly",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P1 (P.W. Arms) / Composite, Steel",
+      "type": "Pistol",
+      "bl": "4.94\"",
+      "caliber": "9mm",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22 CA (Black) Walther Arms / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "3.42\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22 CA (FDE) / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "3.42\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22 CA (full FDE) / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "3.42\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22 CA (Military) Walther Arms / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "3.42\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22 CA (Nickel Slide) Angel Blue Grip Walther Arms / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "3.42\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22 CA Target (Black) Walther Arms / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "5.04\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22 CA Target (Nickel) Walther Arms / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "5.04\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Walther USA (Carl Walther)",
+      "model": "P22CA (Nickel) Walther Arms / Steel; Polymer; Alloy",
+      "type": "Pistol",
+      "bl": "3.42\"",
+      "caliber": ".22 LR",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Classic Ambi (Black/Silver) (WC-A-TTSCA) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Combat Protector (Silver) (WPS-A-SS CA) / Stainless Steel",
+      "type": "Pistol",
+      "bl": "5'\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "CQB (Black/Green) (WCQB-T-A-CA) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "CQB (Black/Green) (WCQBC-T-A-CA) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "CQB, Ambi, AT Tac Lt Rl (Blk) (CQBLR-FSR-45) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Professional (Black) (WPM-A-ASCA) / Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Professional Elite (Black)(WPE-A-ASCA) / Steel",
+      "type": "Pistol",
+      "bl": "4\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Sentinel Tactical (Black) (WS-T-ACA) / Steel",
+      "type": "Pistol",
+      "bl": "3.75\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Stealth (Black) (WSDS-A-ACA) / Steel",
+      "type": "Pistol",
+      "bl": "4.1\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Super Grade (Blue/Stainless) (WSG-A-TT CA) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Tactical Elite, Ambi (Black) (WTE-A-A-CA) / Carbon Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  },
+  {
+      "manufacturer": "Wilson Combat",
+      "model": "Tactical Super Grade (Black/Gray) (WTSG-A-ACA) / Steel",
+      "type": "Pistol",
+      "bl": "5\"",
+      "caliber": ".45 ACP",
+      "expDate": "2020-01-01T08:00:00.000Z"
+  }
+]
+
