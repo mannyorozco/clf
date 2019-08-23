@@ -10,32 +10,44 @@
       planning on purchasing.</small></p>
 </div>
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th class="text-nowrap clf-cursor-pointer" *ngFor="let column of displayedColumns" sortable-column
-        (sortChanged)="onSortColumn(column)" [isActive]="column.isActive" [isReverse]="column.isReverse">
-        {{column.name}}</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr *ngFor="let firearm of firearmsWithPaging">
-      <td>{{firearm.manufacturer}}</td>
-      <td>{{firearm.model}}</td>
-      <td>{{firearm.type}}</td>
-      <td>{{firearm.barrelLength}}</td>
-      <td>{{firearm.caliber}}</td>
-      <td>{{firearm.expirationDate}}</td>
-    </tr>
-  </tbody>
-</table>
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text">
+      <i class="material-icons">search</i>
+    </span>
+  </div>
+  <input type="text" class="form-control" placeholder="Search" [(ngModel)]="searchInput">
+</div>
 
-<div class="d-flex justify-content-between p-2">
+<div class="table-responsive">
+  <table class="table table-striped clf-firearms-table-wrapper">
+    <thead class="w-100">
+      <tr>
+        <th class="text-nowrap clf-cursor-pointer" *ngFor="let column of displayedColumns" sortable-column
+          (sortChanged)="onSortColumn(column)" [isActive]="column.isActive" [isReverse]="column.isReverse">
+          {{column.name}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let firearm of firearms | searchTable : searchInput : searchableColumns">
+        <td>{{firearm.manufacturer}}</td>
+        <td>{{firearm.model}}</td>
+        <td>{{firearm.type}}</td>
+        <td>{{firearm.barrelLength}}</td>
+        <td>{{firearm.caliber}}</td>
+        <td>{{firearm.expirationDate}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- <div class="d-flex justify-content-between p-2">
   <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize">
   </ngb-pagination>
 
   <select class="custom-select" style="width: auto" [(ngModel)]="pageSize">
-    <option [ngValue]="50">50 items per page</option>
     <option [ngValue]="100">100 items per page</option>
+    <option [ngValue]="150">150 items per page</option>
+    <option [ngValue]="200">200 items per page</option>
   </select>
-</div>
+</div> -->
