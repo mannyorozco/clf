@@ -1,0 +1,9 @@
+<div (click)="sort($event)">
+  <ng-container *ngIf="isColumnActive; else notActive">
+    <i *ngIf="isReverse" class="material-icons" style="font-size: 16px">arrow_upward</i>
+    <i *ngIf="!isReverse" class="material-icons" style="font-size: 16px">arrow_downward</i>
+  </ng-container>
+  <ng-template #notActive>
+  </ng-template>
+  <ng-content></ng-content>
+</div>

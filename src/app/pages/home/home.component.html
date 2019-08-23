@@ -1,0 +1,31 @@
+<!-- <img class="w-100" src="https://via.placeholder.com/720x300.png?text=Banner"> -->
+
+<div class="jumbotron">
+  <h1 class="display-4">Your Questions Answered</h1>
+  <p class="lead">Your destination for finding the latest updates on legal firearms available for purchase in
+    California!</p>
+  <hr class="my-4">
+  <p><small>CA Legal Firearms is not a government entity. We strive to provide honest and accurate information provided
+      directly from the DOJ. Always consult an attorney if you are unsure of the legality of the firearm you are
+      planning on purchasing.</small></p>
+</div>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th class="text-nowrap clf-cursor-pointer" *ngFor="let column of displayedColumns" sortable-column
+        (sortChanged)="onSortColumn(column)" [isActive]="column.isActive" [isReverse]="column.isReverse">
+        {{column.name}}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let firearm of firearms">
+      <td>{{firearm.manufacturer}}</td>
+      <td>{{firearm.model}}</td>
+      <td>{{firearm.type}}</td>
+      <td>{{firearm.barrelLength}}</td>
+      <td>{{firearm.caliber}}</td>
+      <td>{{firearm.expirationDate}}</td>
+    </tr>
+  </tbody>
+</table>

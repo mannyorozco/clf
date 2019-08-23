@@ -1,31 +1,36 @@
-<!-- <pre>{{this.firearmsList | json}}</pre> -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
+  <div class="container">
+    <a class="navbar-brand" [routerLink]="['/home']">CA Legal Firearms</a>
+    <button class="navbar-toggler" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed" data-toggle="collapse"
+      data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div [ngbCollapse]="isNavbarCollapsed" class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
 <div class="container">
-
-
-  <table class="table">
-    <thead>
-      <th>id</th>
-      <th>manufacturer</th>
-      <th>model</th>
-      <th>type</th>
-      <th>bl</th>
-      <th>caliber</th>
-      <th>expDate</th>
-      <th>image</th>
-    </thead>
-    <tbody>
-      <tr *ngFor="let item of firearmsList">
-        <th>{{item.id}}</th>
-        <td>{{item.manufacturer}}</td>
-        <td>{{item.model}}</td>
-        <td>{{item.type}}</td>
-        <td>{{item.bl}}</td>
-        <td>{{item.caliber}}</td>
-        <td>{{item.expDate}}</td>
-        <td><img src="{{item.pictureUrl}}"></td>
-      </tr>
-    </tbody>
-  </table>
-
+  <div class="row">
+    <div class="col-md-10">
+      <router-outlet></router-outlet>
+    </div>
+    <div class="col-md-2">
+      <img class="w-100" src="https://via.placeholder.com/190x1000.png?text=Ads+Here">
+    </div>
+  </div>
 </div>
+
+
+<footer class="footer mt-auto py-3">
+  <div class="container">
+    <span class="text-muted">&copy; 2018 by California Legal Firearms. All rights reserved.</span>
+  </div>
+</footer>
