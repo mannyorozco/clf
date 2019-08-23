@@ -19,13 +19,25 @@ export class HomeComponent implements OnInit {
     { name: 'Expiration Date', path: 'expirationDate', type: 'Date', isActive: false, isReverse: false }
   ];
 
+  public page = 1;
+  public pageSize = 25;
+  public collectionSize: number;
+
+  public get firearmsWithPaging(): Firearm[] {
+    if (this.firearms) {
+      return this.firearms
+        .map((firearm, i) => ({ id: i + 1, ...firearm }))
+        .slice((this.page - 1) * this.pageSize, (this.page - 1) * this.pageSize + this.pageSize);
+    }
+  }
+
   constructor(private homeService: HomeService, private orderByService: OrderByService) {}
 
   public ngOnInit(): void {
     this.homeService.getFirearmList().subscribe(
       res => {
-        console.log(res);
         this.firearms = res;
+        this.collectionSize = res.length;
       },
       error => {
         console.error('Could not get firearms list ', error);
@@ -47,7 +59,5 @@ export class HomeComponent implements OnInit {
     }
 
     this.firearms = this.orderByService.orderByColumn(this.firearms, column.path, column.type, column.isReverse);
-
-    console.log(this.firearms);
   }
 }

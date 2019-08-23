@@ -19,7 +19,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr *ngFor="let firearm of firearms">
+    <tr *ngFor="let firearm of firearmsWithPaging">
       <td>{{firearm.manufacturer}}</td>
       <td>{{firearm.model}}</td>
       <td>{{firearm.type}}</td>
@@ -29,3 +29,13 @@
     </tr>
   </tbody>
 </table>
+
+<div class="d-flex justify-content-between p-2">
+  <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize">
+  </ngb-pagination>
+
+  <select class="custom-select" style="width: auto" [(ngModel)]="pageSize">
+    <option [ngValue]="50">50 items per page</option>
+    <option [ngValue]="100">100 items per page</option>
+  </select>
+</div>

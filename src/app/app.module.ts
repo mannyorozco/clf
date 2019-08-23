@@ -8,13 +8,11 @@ import { HomeModule } from './pages/home/home.module';
 import { AppRoutingModule } from './app-routing.module';
 import { PageNotFoundComponent } from './pages/page-not-found/page-not-found.component';
 import { SharedModule } from './shared/shared.module';
-import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [AppComponent, PageNotFoundComponent],
   imports: [
     BrowserModule,
-    CommonModule,
     HttpClientModule,
     BrowserAnimationsModule,
     NgbModule,
