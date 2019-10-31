@@ -3,8 +3,8 @@ export class Firearm {
   manufacturer: string;
   model: string;
   type: string;
-  barrelLength: number;
-  caliber: number;
+  barrelLength: string;
+  caliber: string;
   expirationDate: Date;
   imagePath: string;
 }

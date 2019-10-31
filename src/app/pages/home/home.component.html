@@ -16,37 +16,59 @@
       planning on purchasing.</small></p>
 </div>
 
-<div class="btn-group w-100" role="group">
+<div class="btn-group w-100 mb-3" role="group">
   <button type="button" class="btn btn-dark disabled">View By:</button>
-  <button type="button" class="btn btn-dark" [ngClass]="{active: filteredCategory === filterCategory}"
-    *ngFor="let filterCategory of filterCategories"
-    (click)="onShowFilteredCategory(filterCategory)">{{filterCategory}}</button>
+  <button type="button" class="btn btn-dark" [ngClass]="{active: selectedCategory === category}"
+    *ngFor="let category of filterCategories"
+    (click)="onShowFilteredCategory(category)">{{filterCategory[category]}}</button>
 </div>
 
-
-<div class="row" *ngIf="filteredCategory === 'Manufacturer'">
-  <div class="col-md-4" *ngFor="let manufacturer of manufacturers">
-    <label>{{manufacturer}}</label>
+<div class="row" *ngIf="filteredList && filteredList.length > 0">
+  <div class="col-md-4 text-center" *ngFor="let item of filteredList">
+    <div (click)="onShowRefinedList(item)" style="cursor: pointer;">
+      <img src="https://via.placeholder.com/100" /> <br>
+      <label>{{item}}</label>
+    </div>
   </div>
 </div>
 
-<div class="row" *ngIf="filteredCategory === 'Type'">
-  <div class="col-md-4" *ngFor="let type of types">
-    <label>{{type}}</label>
-  </div>
-</div>
+<ng-container *ngIf="refinedFilterList && refinedFilterList.length > 0">
 
-<div class="row" *ngIf="filteredCategory === 'Caliber'">
-  <div class="col-md-4" *ngFor="let caliber of calibers">
-    <label>{{caliber}}</label>
+  <div class="mb-3">
+    Showing
+    <select class="custom-select" style="width: 4em" (ngModelChange)="rebuildPaging($event)"
+      [(ngModel)]="pagination.pageSize">
+      <option *ngFor="let pageSize of pageSizeList" [ngValue]="pageSize">{{pageSize}}</option>
+    </select>
+    records of {{refinedFilterList.length}} total
   </div>
-</div>
 
-<div class="row" *ngIf="filteredCategory === 'Barrel Length'">
-  <div class="col-md-4" *ngFor="let barrelLength of barrelLengths">
-    <label>{{barrelLength}}</label>
+  <div class="card mb-2" *ngFor="let item of pagination.pageItems">
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="https://via.placeholder.com/150" />
+        </div>
+        <div class="col-md-8">
+          <div class="row">
+            <div class="col-md-6">
+              <label>{{item.manufacturer}}</label> <br>
+              <label>{{item.model}}</label> <br>
+              <label>{{item.type}}</label>
+            </div>
+            <div class="col-md-6">
+              <label>{{item.caliber}}</label> <br>
+              <label>{{item.barrelLength}}</label> <br>
+              <label>{{item.expirationDate}}</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
+</ng-container>
+
+
 
 
 <!-- <div class="input-group mb-3">
