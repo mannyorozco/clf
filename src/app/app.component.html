@@ -1,6 +1,9 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
   <div class="container">
-    <a class="navbar-brand" [routerLink]="['/home']">CA Legal Firearms</a>
+    <a class="navbar-brand d-flex" [routerLink]="['/home']">
+      <img src="assets/images/callegal2b.png" style="width: 2em" class="pr-2">
+      <span>CA <br> Legal Firearms</span>
+    </a>
     <button class="navbar-toggler" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed" data-toggle="collapse"
       data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
       aria-label="Toggle navigation">
@@ -17,20 +20,46 @@
   </div>
 </nav>
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-10">
-      <router-outlet></router-outlet>
-    </div>
-    <div class="col-md-2">
-      <img class="w-100" src="https://via.placeholder.com/190x1000.png?text=Ads+Here">
+<div class="container mb-3">
+
+  <div class="card shadow">
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-10">
+          <router-outlet></router-outlet>
+        </div>
+        <div class="col-md-2">
+          <img class="w-100" src="https://via.placeholder.com/190x1000.png?text=Ads+Here">
+        </div>
+      </div>
     </div>
   </div>
+
 </div>
 
-
-<footer class="footer mt-auto py-3">
-  <div class="container">
-    <span class="text-muted">&copy; 2018 by California Legal Firearms. All rights reserved.</span>
+<footer class="footer mt-auto" style="background-color: #bdbdbd">
+  <div id="clf-footer-site-map" class="py-3" style="background-color: #e0e0e0">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <a href="#">Some helpful link</a> <br>
+          <a href="#">Some helpful link</a> <br>
+          <a href="#">Some helpful link</a> <br>
+          <a href="#">Some helpful link</a>
+        </div>
+        <div class="col-md-4">
+          <a href="#">Some helpful link</a> <br>
+          <a href="#">Some helpful link</a>
+        </div>
+        <div class="col-md-4">
+          <a href="#">Some helpful link</a> <br>
+          <a href="#">Some helpful link</a> <br>
+          <a href="#">Some helpful link</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container py-3">
+    <span class="text-light">&copy; 2018 by California Legal Firearms. All rights reserved.</span>
   </div>
 </footer>

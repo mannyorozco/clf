@@ -35,6 +35,14 @@ export class HomeComponent implements OnInit {
   //   }
   // }
 
+  // new concept with layers
+  public manufacturers: Array<string> = [];
+  public calibers: Array<string> = [];
+  public types: Array<string> = [];
+  public barrelLengths: Array<string> = [];
+  public filteredCategory: string;
+  public filterCategories = ['Manufacturer', 'Type', 'Caliber', 'Barrel Length'];
+
   private searchInputObs: Subject<string> = new Subject<string>();
 
   constructor(private homeService: HomeService, private orderByService: OrderByService) {}
@@ -44,6 +52,15 @@ export class HomeComponent implements OnInit {
       res => {
         this.firearms = [...res];
         // this.collectionSize = res.length;
+
+        // add manufactuerer id
+        this.manufacturers = this.filterUniqueStrings('manufacturer');
+        // add caliber id
+        this.calibers = this.filterUniqueStrings('caliber');
+        // add type id
+        this.types = this.filterUniqueStrings('type');
+        // add barrel length id
+        this.barrelLengths = this.filterUniqueStrings('barrelLength');
       },
       error => {
         console.error('Could not get firearms list ', error);
@@ -61,6 +78,14 @@ export class HomeComponent implements OnInit {
     //     this.firearms = this.filterBasedOnSearchInput(input);
     //     console.log(this.firearms);
     //   });
+  }
+
+  private filterUniqueStrings(filterValue: string): Array<string> {
+    return this.firearms.map(value => value[filterValue]).filter((value, index, self) => self.indexOf(value) === index);
+  }
+
+  public onShowFilteredCategory(category: string): void {
+    this.filteredCategory = category;
   }
 
   public onSortColumn(column: ColumnSort): void {

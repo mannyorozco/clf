@@ -1,16 +1,55 @@
-<!-- <img class="w-100" src="https://via.placeholder.com/720x300.png?text=Banner"> -->
-
-<div class="jumbotron">
-  <h1 class="display-4">Your Questions Answered</h1>
-  <p class="lead">Your destination for finding the latest updates on legal firearms available for purchase in
-    California!</p>
+<div class="jumbotron clf-jumbotron">
+  <div class="d-flex justify-content-between align-items-center text-light">
+    <div>
+      <h1 class="display-4">Your Questions Answered</h1>
+      <p class="lead">Your destination for finding the latest updates on legal firearms available for purchase in
+        California!</p>
+    </div>
+    <div>
+      <img src="assets/images/callegalthumbup.png" style="width: 12em">
+    </div>
+  </div>
   <hr class="my-4">
-  <p><small>CA Legal Firearms is not a government entity. We strive to provide honest and accurate information provided
+  <p class="text-light"><small>CA Legal Firearms is not a government entity. We strive to provide honest and accurate
+      information provided
       directly from the DOJ. Always consult an attorney if you are unsure of the legality of the firearm you are
       planning on purchasing.</small></p>
 </div>
 
-<div class="input-group mb-3">
+<div class="btn-group w-100" role="group">
+  <button type="button" class="btn btn-dark disabled">View By:</button>
+  <button type="button" class="btn btn-dark" [ngClass]="{active: filteredCategory === filterCategory}"
+    *ngFor="let filterCategory of filterCategories"
+    (click)="onShowFilteredCategory(filterCategory)">{{filterCategory}}</button>
+</div>
+
+
+<div class="row" *ngIf="filteredCategory === 'Manufacturer'">
+  <div class="col-md-4" *ngFor="let manufacturer of manufacturers">
+    <label>{{manufacturer}}</label>
+  </div>
+</div>
+
+<div class="row" *ngIf="filteredCategory === 'Type'">
+  <div class="col-md-4" *ngFor="let type of types">
+    <label>{{type}}</label>
+  </div>
+</div>
+
+<div class="row" *ngIf="filteredCategory === 'Caliber'">
+  <div class="col-md-4" *ngFor="let caliber of calibers">
+    <label>{{caliber}}</label>
+  </div>
+</div>
+
+<div class="row" *ngIf="filteredCategory === 'Barrel Length'">
+  <div class="col-md-4" *ngFor="let barrelLength of barrelLengths">
+    <label>{{barrelLength}}</label>
+  </div>
+</div>
+
+
+<!-- <div class="input-group mb-3">
   <div class="input-group-prepend">
     <span class="input-group-text">
       <i class="material-icons">search</i>
@@ -20,7 +59,7 @@
 </div>
 
 <div class="table-responsive">
-  <table class="table table-striped clf-firearms-table-wrapper">
+  <table class="table table-striped clf-firearms-table-wrapper border">
     <thead class="w-100">
       <tr>
         <th class="text-nowrap clf-cursor-pointer" *ngFor="let column of displayedColumns" sortable-column
@@ -39,15 +78,4 @@
       </tr>
     </tbody>
   </table>
-</div>
-
-<!-- <div class="d-flex justify-content-between p-2">
-  <ngb-pagination [collectionSize]="collectionSize" [(page)]="page" [pageSize]="pageSize">
-  </ngb-pagination>
-
-  <select class="custom-select" style="width: auto" [(ngModel)]="pageSize">
-    <option [ngValue]="100">100 items per page</option>
-    <option [ngValue]="150">150 items per page</option>
-    <option [ngValue]="200">200 items per page</option>
-  </select>
 </div> -->
